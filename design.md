@@ -2,9 +2,9 @@
 
 ## Accounts Aggregation
 
-######Allow user to view the total balance of all accounts 
+###### Allow user to view the total balance of all accounts 
 
-######Allow user to view balance of each account
+###### Allow user to view balance of each account
 
 
 
